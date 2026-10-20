@@ -18,3 +18,10 @@ __pycache__/
 *.log
 .DS_Store
 Thumbs.db
+
+# Wanxiang private runtime data and test artifacts
+.data/
+playwright-report/
+test-results/
+artifacts/
+.env.test
