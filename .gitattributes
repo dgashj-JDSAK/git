@@ -1,0 +1,2 @@
+# Preserve Windows batch CRLF bytes in clones and GitHub ZIP downloads.
+start.bat -text
